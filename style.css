@@ -1,0 +1,15 @@
+.custom-bg{
+    background-color: #fceae8;
+}
+.categories img{
+    width: 100px;
+}
+.buy-now-button{
+    background-color: #ff136f;
+    color: white;
+    padding: 9px 25px;
+    width: 140px;
+    height: 42px;
+    border-radius: 5px;
+    border: none;
+}
